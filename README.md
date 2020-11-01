@@ -5,7 +5,7 @@ Pro Launchpadder is a very cool person and he definitely didn't blackmail me for
 To download, click on the green   ![code](https://raw.githubusercontent.com/WhosPix3l/ProLunchpodder-Minecraft-Pack/main/Image%20Resources/code.png)   button, and click on Download ZIP.
 
 ## Installation
-To install, un-ZIP the ZIP file you have downloaded. Copy the folder named '§aPro §rLaunchpadder §8§o(is gay)' to your resource packs folder. Open Minecraft 1.16.3, and add Clarity 32x below the overlay.
+To install, un-ZIP the ZIP file you have downloaded. Copy the folder named '§aPro §rLaunchpadder §8§o(is gay)' to your resource packs folder. Open Minecraft 1.16.3, and add Clarity 32x below the overlay/
 
 ![selected.png](https://raw.githubusercontent.com/WhosPix3l/ProLunchpodder-Minecraft-Pack/main/Image%20Resources/selected.png)
 
