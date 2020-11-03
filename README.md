@@ -13,24 +13,28 @@ To install, un-ZIP the ZIP file you have downloaded. Copy the folder named '§aP
 ## Modifications
 ##### Changed:
 * Splash texts
+* Sky textures
 
 ##### Added:
-* Custom sky
-* Kanye West Spawn Egg
-* Neophyte Spawn Egg
-* Taylor Swift Spawn Egg
-* maybe:
-* neo gae
-* :no:
-* :pros pp
-* :yes:
+* Arrow > pros pp
+* Black Stained Glass + Pane > neo gae
+* Lime Stained Glass + Pane > :yes:
+* Red Stained Glass + Pane > :no:
+* Villager Spawn Egg > Taylor Swift Spawn Egg
+* Wither Skeleton Spawn Egg > Neophyte Spawn Egg
+* Yellow Stained Glass + Pane > :maybe:
+* Zombie Spawn Egg > Kanye West Spawn Egg
 
 ## Credits
 ##### Massive credits to these people!
 * Mrcoolisias, for the sky textures from his Crystal Galaxy texture pack.
+* SCtester, for creating Clarity in the first place
 * Pro Launchpadder, for subjecting himself to this abomination of a texture pack.
 
 ## Changelog (DD/MM/YYYY)
+
+### ✔ 03/11/2020
+* Redid README.md.
 
 ### ✔ 01/11/2020
 * Redid README.md.
